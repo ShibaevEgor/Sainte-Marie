@@ -306,7 +306,7 @@
 
 @media only screen and (max-width:480px) {
     .btext {
-        font-size: 15px;
+        font-size: 17px;
         margin-bottom: 5px;
         line-height: normal;
     }
@@ -314,7 +314,7 @@
         font-size: 10px;
     }
     .btext2 {
-        font-size: 15px;
+        font-size: 17px;
         margin-bottom: 5px;
         line-height: normal;
     }
@@ -322,7 +322,7 @@
         font-size: 10px;
     }
     .btext3 {
-        font-size: 15px;
+        font-size: 17px;
         margin-bottom: 5px;
         line-height: normal;
     }
@@ -330,7 +330,7 @@
         font-size: 10px;
     }
     .btext4 {
-        font-size: 15px;
+        font-size: 17px;
         margin-bottom: 5px;
         line-height: normal;
     }
@@ -338,7 +338,7 @@
         font-size: 10px;
     }
     .btext5 {
-        font-size: 15px;
+        font-size: 17px;
         margin-bottom: 5px;
         line-height: normal;
     }
@@ -346,7 +346,7 @@
         font-size: 10px;
     }
     .btext6 {
-        font-size: 15px;
+        font-size: 17px;
         margin-bottom: 5px;
         line-height: normal;
     }
@@ -354,7 +354,7 @@
         font-size: 10px;
     }
     .btext7 {
-        font-size: 15px;
+        font-size: 17px;
         margin-bottom: 5px;
         line-height: normal;
     }
@@ -478,31 +478,31 @@
         width: 100px;
     }
     .box {
-        height: 120px;
+        height: 150px;
         margin-bottom: 10px;
     }
     .box2 {
-        height: 120px;
+        height: 150px;
         margin-bottom: 10px;
     }
     .in {
-        height: 120px;
+        height: 150px;
         margin-bottom: 10px;
     }
     .in2 {
-        height: 120px;
+        height: 150px;
         margin-bottom: 10px;
     }
     .one {
-        height: 120px;
+        height: 150px;
         margin-bottom: 10px;
     }
     .two {
-        height: 120px;
+        height: 150px;
         margin-bottom: 10px;
     }
     .three {
-        height: 120px;
+        height: 150px;
     }
     .burger__box {
         width: 100px;
@@ -511,48 +511,48 @@
         padding-left: 10px;
     }
     .btext {
-        font-size: 10px;
+        font-size: 17px;
         margin: 0;
     }
     .btext2 {
-        font-size: 10px;
+        font-size: 17px;
         margin: 0;
     }
     .btext3 {
-        font-size: 10px;
+        font-size: 17px;
     }
     .btext4 {
-        font-size: 10px;
+        font-size: 17px;
     }
     .btext5 {
-        font-size: 10px;
+        font-size: 17px;
     }
     .btext6 {
-        font-size: 10px;
+        font-size: 17px;
     }
     .btext7 {
-        font-size: 10px;
+        font-size: 17px;
     }
     .text {
-        font-size: 7px
+        font-size: 10px
     }
     .text2 {
-        font-size: 7px
+        font-size: 10px
     }
     .text3 {
-        font-size: 7px
+        font-size: 10px
     }
     .text4 {
-        font-size: 7px
+        font-size: 10px
     }
     .text5 {
-        font-size: 7px
+        font-size: 10px
     }
     .text6 {
-        font-size: 7px
+        font-size: 10px
     }
     .text7 {
-        font-size: 7px
+        font-size: 10px
     }
     .footer__one {
         padding-top: 20px!important;
@@ -594,43 +594,43 @@
         height: 10px;
     }
     .box {
-        height: 100px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .box2 {
-        height: 100px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .in {
-        height: 100px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .in2 {
-        height: 100px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .one {
-        height: 100px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .two {
-        height: 100px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .three {
-        height: 100px;
+        height: 150px;
         text-align: center;
         padding-top: 20px;
     }
@@ -638,61 +638,61 @@
 
 @media only screen and (max-width:335px) {
     .btext {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
         margin-bottom: 5px;
     }
     .btext2 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
         margin-bottom: 5px;
     }
     .btext3 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .btext4 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .btext5 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .btext6 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .btext7 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .text {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text2 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text3 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text4 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text5 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text6 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text7 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .logo__img {
@@ -726,43 +726,43 @@
         margin-bottom: 20px;
     }
     .box {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .box2 {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .in {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .in2 {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .one {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .two {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .three {
-        height: 70px;
+        height: 150px;
         text-align: center;
         padding-top: 20px;
     }
@@ -770,61 +770,61 @@
 
 @media only screen and (max-width:320px) {
     .btext {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
         margin-bottom: 5px;
     }
     .btext2 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
         margin-bottom: 5px;
     }
     .btext3 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .btext4 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .btext5 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .btext6 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .btext7 {
-        font-size: 7px;
+        font-size: 17px;
         line-height: normal;
     }
     .text {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text2 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text3 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text4 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text5 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text6 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .text7 {
-        font-size: 5px;
+        font-size: 10px;
         line-height: normal;
     }
     .logo__img {
@@ -858,43 +858,43 @@
         margin-bottom: 20px;
     }
     .box {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .box2 {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .in {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .in2 {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .one {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .two {
-        height: 70px;
+        height: 150px;
         margin-bottom: 10px;
         text-align: center;
         padding-top: 20px;
     }
     .three {
-        height: 70px;
+        height: 150px;
         text-align: center;
         padding-top: 20px;
     }
