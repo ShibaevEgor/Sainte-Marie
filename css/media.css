@@ -1,0 +1,901 @@
+@media only screen and (max-width:970px) {
+    .container {
+        width: 99%;
+    }
+    .footer__one {
+        padding-top: 100px!important;
+    }
+}
+
+@media only screen and (max-width:930px) {
+    .container {
+        width: 99%;
+    }
+    .in {
+        height: 390px;
+    }
+    .in2 {
+        height: 390px;
+    }
+    .box {
+        height: 550px;
+    }
+    .box2 {
+        height: 550px;
+    }
+}
+
+@media only screen and (max-width:890px) {
+    .container {
+        width: 99%;
+    }
+    .box {
+        height: 500px;
+    }
+    .box2 {
+        height: 500px;
+    }
+    .in {
+        height: 350px;
+    }
+    .in2 {
+        height: 350px;
+    }
+    .menu__box {
+        display: block;
+        z-index: 99;
+    }
+    .ul {
+        display: none;
+    }
+    .main__one {
+        padding-top: 10px;
+    }
+}
+
+@media only screen and (max-width:860px) {
+    .container {
+        width: 99%;
+    }
+    .box {
+        height: 450px;
+    }
+    .box2 {
+        height: 430px;
+    }
+    .in {
+        height: 340px;
+    }
+    .in2 {
+        height: 340px;
+    }
+    .one {
+        height: 220px;
+    }
+    .two {
+        height: 220px;
+    }
+    .three {
+        height: 220px;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .btext {
+        font-size: 40px;
+    }
+    .btext2 {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width:740px) {
+    .btext5 {
+        font-size: 13px;
+    }
+    .text5 {
+        font-size: 10px;
+    }
+    .btext6 {
+        font-size: 13px;
+    }
+    .text6 {
+        font-size: 10px;
+    }
+    .btext7 {
+        font-size: 13px;
+    }
+    .text7 {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width:730px) {
+    .box {
+        height: 400px;
+        margin-bottom: 20px;
+    }
+    .box2 {
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .in {
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .in2 {
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .one {
+        height: 200px;
+    }
+    .two {
+        height: 200px;
+    }
+    .three {
+        height: 200px;
+    }
+    .burger__box {
+        height: 180px;
+        padding-top: 30px;
+    }
+    .main__one {
+        padding-top: 9px;
+    }
+}
+
+@media only screen and (max-width:700px) {
+    .btext {
+        font-size: 30px;
+    }
+    .text {
+        font-size: 15px;
+    }
+    .btext2 {
+        font-size: 30px;
+    }
+    .text2 {
+        font-size: 15px;
+    }
+    .bbox {
+        display: block;
+    }
+    .one {
+        margin: 0 auto;
+        width: 100%;
+        height: 350px;
+        margin-bottom: 10px;
+    }
+    .two {
+        margin: 0 auto;
+        width: 100%;
+        height: 350px;
+        margin-bottom: 10px;
+    }
+    .three {
+        margin: 0 auto;
+        width: 100%;
+        height: 350px;
+        margin-bottom: 10px;
+    }
+    .box3 {
+        display: block;
+    }
+    .in {
+        margin: 0 auto;
+        width: 100%;
+        height: 300px;
+        margin-bottom: 10px;
+    }
+    .in2 {
+        margin: 0 auto;
+        width: 100%;
+        height: 300px;
+        margin-bottom: 10px;
+    }
+    .btext2 {
+        margin-bottom: 0px;
+    }
+    .btext3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .text3 {
+        font-size: 15px;
+    }
+    .btext4 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .text4 {
+        font-size: 15px;
+    }
+    .btext5 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .text5 {
+        font-size: 15px;
+    }
+    .btext6 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .text6 {
+        font-size: 15px;
+    }
+    .btext7 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .text7 {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    .btext {
+        font-size: 25px;
+    }
+    .btext2 {
+        font-size: 25px;
+    }
+    .btext3 {
+        font-size: 25px;
+    }
+    .btext4 {
+        font-size: 25px;
+    }
+    .btext5 {
+        font-size: 25px;
+    }
+    .btext6 {
+        font-size: 25px;
+    }
+    .btext7 {
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width:560px) {
+    .logo__img {
+        width: 200px;
+    }
+    .burger {
+        height: 25px;
+    }
+    .burger__box {
+        width: 150px;
+        height: 120px;
+        padding-top: 15px;
+        padding-left: 25px;
+    }
+    .silka {
+        font-size: 15px;
+    }
+    .main__one {
+        padding-top: 8px;
+    }
+}
+
+@media only screen and (max-width:525px) {
+    .btext2 {
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+    .box {
+        height: 300px;
+    }
+    .box2 {
+        height: 250px;
+    }
+    .btext {
+        margin-bottom: 0px;
+    }
+    .one {
+        height: 300px;
+    }
+    .two {
+        height: 300px;
+    }
+    .three {
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .btext {
+        font-size: 15px;
+        margin-bottom: 5px;
+        line-height: normal;
+    }
+    .text {
+        font-size: 10px;
+    }
+    .btext2 {
+        font-size: 15px;
+        margin-bottom: 5px;
+        line-height: normal;
+    }
+    .text2 {
+        font-size: 10px;
+    }
+    .btext3 {
+        font-size: 15px;
+        margin-bottom: 5px;
+        line-height: normal;
+    }
+    .text3 {
+        font-size: 10px;
+    }
+    .btext4 {
+        font-size: 15px;
+        margin-bottom: 5px;
+        line-height: normal;
+    }
+    .text4 {
+        font-size: 10px;
+    }
+    .btext5 {
+        font-size: 15px;
+        margin-bottom: 5px;
+        line-height: normal;
+    }
+    .text5 {
+        font-size: 10px;
+    }
+    .btext6 {
+        font-size: 15px;
+        margin-bottom: 5px;
+        line-height: normal;
+    }
+    .text6 {
+        font-size: 10px;
+    }
+    .btext7 {
+        font-size: 15px;
+        margin-bottom: 5px;
+        line-height: normal;
+    }
+    .text7 {
+        font-size: 10px;
+    }
+    .logo__img {
+        width: 150px;
+    }
+    .burger {
+        height: 18px;
+    }
+    .box {
+        height: 200px;
+    }
+    .box2 {
+        height: 200px;
+    }
+    .in {
+        height: 200px;
+    }
+    .in2 {
+        height: 200px;
+    }
+    .one {
+        height: 200px;
+    }
+    .two {
+        height: 200px;
+    }
+    .three {
+        height: 200px;
+    }
+    .burger__box {
+        height: 100px;
+        width: 120px;
+        top: 40px;
+    }
+    .silka {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    .main__one {
+        padding-top: 7px;
+    }
+    .footer__one {
+        padding-top: 50px!important;
+    }
+}
+
+@media only screen and (max-width:410px) {
+    .logo__img {
+        width: 120px;
+    }
+    .burger {
+        height: 15px;
+    }
+    .box {
+        height: 150px;
+        margin-bottom: 10px;
+    }
+    .box2 {
+        height: 150px;
+        margin-bottom: 10px;
+    }
+    .in {
+        height: 150px;
+        margin-bottom: 10px;
+    }
+    .in2 {
+        height: 150px;
+        margin-bottom: 10px;
+    }
+    .one {
+        height: 150px;
+        margin-bottom: 10px;
+    }
+    .two {
+        height: 150px;
+        margin-bottom: 10px;
+    }
+    .three {
+        height: 150px;
+    }
+    .burger__box {
+        width: 100px;
+        height: 90px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    .silka {
+        font-size: 10px;
+        margin: 0;
+    }
+    .main__one {
+        padding-top: 2px;
+    }
+}
+
+@media only screen and (max-width:390px) {
+    .insta {
+        height: 20px;
+        width: 20px;
+    }
+    .facebook {
+        height: 20px;
+        width: 20px;
+    }
+    .conect {
+        height: 20px;
+        width: 20px;
+    }
+    .painterest {
+        height: 20px;
+        width: 20px;
+    }
+}
+
+@media only screen and (max-width:380px) {
+    .logo__img {
+        width: 100px;
+    }
+    .box {
+        height: 120px;
+        margin-bottom: 10px;
+    }
+    .box2 {
+        height: 120px;
+        margin-bottom: 10px;
+    }
+    .in {
+        height: 120px;
+        margin-bottom: 10px;
+    }
+    .in2 {
+        height: 120px;
+        margin-bottom: 10px;
+    }
+    .one {
+        height: 120px;
+        margin-bottom: 10px;
+    }
+    .two {
+        height: 120px;
+        margin-bottom: 10px;
+    }
+    .three {
+        height: 120px;
+    }
+    .burger__box {
+        width: 100px;
+        height: 90px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    .btext {
+        font-size: 10px;
+        margin: 0;
+    }
+    .btext2 {
+        font-size: 10px;
+        margin: 0;
+    }
+    .btext3 {
+        font-size: 10px;
+    }
+    .btext4 {
+        font-size: 10px;
+    }
+    .btext5 {
+        font-size: 10px;
+    }
+    .btext6 {
+        font-size: 10px;
+    }
+    .btext7 {
+        font-size: 10px;
+    }
+    .text {
+        font-size: 7px
+    }
+    .text2 {
+        font-size: 7px
+    }
+    .text3 {
+        font-size: 7px
+    }
+    .text4 {
+        font-size: 7px
+    }
+    .text5 {
+        font-size: 7px
+    }
+    .text6 {
+        font-size: 7px
+    }
+    .text7 {
+        font-size: 7px
+    }
+    .footer__one {
+        padding-top: 20px!important;
+    }
+    .blackbox {
+        margin-bottom: 20px;
+    }
+    .logo__img2 {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 20px;
+    }
+    .logo2 {
+        margin-bottom: 20px;
+    }
+    .grey {
+        font-size: 10px;
+    }
+    .burger__box {
+        width: 80px;
+        height: 60px;
+        padding-top: 5px;
+        padding-left: 10px;
+        top: 35px;
+    }
+    .silka {
+        font-size: 7px;
+    }
+    .main__one {
+        padding-top: 1px;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    .logo__img {
+        width: 80px;
+    }
+    .burger {
+        height: 10px;
+    }
+    .box {
+        height: 100px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .box2 {
+        height: 100px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .in {
+        height: 100px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .in2 {
+        height: 100px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .one {
+        height: 100px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .two {
+        height: 100px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .three {
+        height: 100px;
+        text-align: center;
+        padding-top: 20px;
+    }
+}
+
+@media only screen and (max-width:335px) {
+    .btext {
+        font-size: 7px;
+        line-height: normal;
+        margin-bottom: 5px;
+    }
+    .btext2 {
+        font-size: 7px;
+        line-height: normal;
+        margin-bottom: 5px;
+    }
+    .btext3 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .btext4 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .btext5 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .btext6 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .btext7 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .text {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text2 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text3 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text4 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text5 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text6 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text7 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .logo__img {
+        width: 50px;
+    }
+    .burger {
+        height: 10px;
+    }
+    .insta {
+        height: 15px;
+        width: 15px;
+    }
+    .facebook {
+        height: 15px;
+        width: 15px;
+    }
+    .conect {
+        height: 15px;
+        width: 15px;
+    }
+    .painterest {
+        height: 15px;
+        width: 15px;
+    }
+    .blackbox {
+        margin-bottom: 20px;
+    }
+    .logo__img2 {
+        height: 50px;
+        width: 50px;
+        margin-bottom: 20px;
+    }
+    .box {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .box2 {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .in {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .in2 {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .one {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .two {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .three {
+        height: 70px;
+        text-align: center;
+        padding-top: 20px;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .btext {
+        font-size: 7px;
+        line-height: normal;
+        margin-bottom: 5px;
+    }
+    .btext2 {
+        font-size: 7px;
+        line-height: normal;
+        margin-bottom: 5px;
+    }
+    .btext3 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .btext4 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .btext5 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .btext6 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .btext7 {
+        font-size: 7px;
+        line-height: normal;
+    }
+    .text {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text2 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text3 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text4 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text5 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text6 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .text7 {
+        font-size: 5px;
+        line-height: normal;
+    }
+    .logo__img {
+        width: 50px;
+    }
+    .burger {
+        height: 10px;
+    }
+    .insta {
+        height: 15px;
+        width: 15px;
+    }
+    .facebook {
+        height: 15px;
+        width: 15px;
+    }
+    .conect {
+        height: 15px;
+        width: 15px;
+    }
+    .painterest {
+        height: 15px;
+        width: 15px;
+    }
+    .blackbox {
+        margin-bottom: 20px;
+    }
+    .logo__img2 {
+        height: 50px;
+        width: 50px;
+        margin-bottom: 20px;
+    }
+    .box {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .box2 {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .in {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .in2 {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .one {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .two {
+        height: 70px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .three {
+        height: 70px;
+        text-align: center;
+        padding-top: 20px;
+    }
+}
