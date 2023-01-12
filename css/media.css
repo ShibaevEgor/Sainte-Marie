@@ -3,7 +3,7 @@
         width: 99%;
     }
     .footer__one {
-        padding-top: 100px!important;
+        /* padding-top: 100px!important; */
     }
 }
 
@@ -136,10 +136,10 @@
     .three {
         height: 200px;
     }
-    .burger__box {
-        height: 180px;
+    /* .burger__box {
+        height: 400px;
         padding-top: 30px;
-    }
+    } */
     .main__one {
         padding-top: 9px;
     }
@@ -259,21 +259,21 @@
 }
 
 @media only screen and (max-width:560px) {
-    .logo__img {
+    /* .logo__img {
         width: 200px;
-    }
+    } */
     .burger {
         height: 25px;
     }
-    .burger__box {
+    /* .burger__box {
         width: 150px;
-        height: 120px;
+        height: 400px;
         padding-top: 15px;
         padding-left: 25px;
-    }
-    .silka {
+    } */
+    /* .silka {
         font-size: 15px;
-    }
+    } */
     .main__one {
         padding-top: 8px;
     }
@@ -388,20 +388,15 @@
     .three {
         height: 250px;
     }
-    .burger__box {
-        height: 100px;
-        width: 120px;
-        top: 40px;
-    }
-    .silka {
+    /* .silka {
         font-size: 10px;
         margin-bottom: 5px;
-    }
+    } */
     .main__one {
         padding-top: 7px;
     }
     .footer__one {
-        padding-top: 50px!important;
+        /* padding-top: 50px!important; */
     }
 }
 
@@ -439,16 +434,16 @@
     .three {
         height: 200px;
     }
-    .burger__box {
+    /* .burger__box {
         width: 100px;
         height: 90px;
         padding-top: 10px;
         padding-left: 10px;
-    }
-    .silka {
+    } */
+    /* .silka {
         font-size: 10px;
         margin: 0;
-    }
+    } */
     .main__one {
         padding-top: 2px;
     }
@@ -504,12 +499,6 @@
     .three {
         height: 200px;
     }
-    .burger__box {
-        width: 100px;
-        height: 90px;
-        padding-top: 10px;
-        padding-left: 10px;
-    }
     .btext {
         font-size: 17px;
         margin: 0;
@@ -555,7 +544,7 @@
         font-size: 10px
     }
     .footer__one {
-        padding-top: 20px!important;
+        /* padding-top: 20px!important; */
     }
     .blackbox {
         margin-bottom: 20px;
@@ -571,16 +560,16 @@
     .grey {
         font-size: 10px;
     }
-    .burger__box {
+    /* .burger__box {
         width: 80px;
         height: 60px;
         padding-top: 5px;
         padding-left: 10px;
         top: 35px;
-    }
-    .silka {
+    } */
+    /* .silka {
         font-size: 7px;
-    }
+    } */
     .main__one {
         padding-top: 1px;
     }

@@ -5,6 +5,12 @@
     text-decoration: none;
 }
 
+marquee {
+    text-transform: uppercase;
+    font-size: large;
+    color: red;
+}
+
 a {
     text-decoration: none;
 }
@@ -22,6 +28,7 @@ a {
 
 :root {
     --family: 'Chivo';
+    ---family: 'Century Gothic';
 }
 
 
@@ -91,34 +98,48 @@ a {
 }
 
 .burger__box {
-    background-color: dimgray;
+    background-color: rgb(255, 255, 255);
     width: 200px;
-    height: 200px;
-    padding-left: 40px;
-    padding-top: 40px;
+    height: 300px;
+    /* padding-left: 10px; */
+    padding-top: 20px;
     transition: all 0.5s linear;
     position: absolute;
     right: -2000px;
     top: 60px;
     border-radius: 10px;
+    border: 3px solid rgb(255, 0, 0);
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    /* text-align: center; */
 }
 
+.home{
+    text-transform: uppercase;
+    font-family: var(--family);
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+/* 
 .burger__box:hover {
     background-color: darkgray;
-}
+} */
 
 .silka {
     display: block;
-    font-family: 'Century Gothic';
+    font-family: var(---family);
     font-style: normal;
-    color: rgb(44, 214, 208);
+    color: rgb(0, 0, 0);
     font-size: 20px;
     transition: all 0.5s linear;
+    margin-left: 20px;
+    line-height: 40px;
 }
 
-.silka:hover {
+/* .silka:hover {
     transform: scale(1.2);
-}
+} */
 
 
 /* header */
@@ -417,7 +438,7 @@ a {
 .footer {}
 
 .footer__one {
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 .bax {
