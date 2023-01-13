@@ -2,9 +2,6 @@
     .container {
         width: 99%;
     }
-    .footer__one {
-        /* padding-top: 100px!important; */
-    }
 }
 
 @media only screen and (max-width:930px) {
@@ -136,10 +133,14 @@
     .three {
         height: 200px;
     }
-    /* .burger__box {
-        height: 400px;
-        padding-top: 30px;
-    } */
+    .container{
+        position: relative;
+    }
+    .burger__box {
+        position: fixed;
+        top: 93px;
+        right: 15px !important;
+    }
     .main__one {
         padding-top: 9px;
     }
