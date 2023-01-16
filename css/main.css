@@ -11,6 +11,10 @@ marquee {
     color: red;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 a {
     text-decoration: none;
 }
@@ -112,7 +116,11 @@ a {
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
 }
-
+.active{
+    position: fixed;
+    right: 15px;
+    top: 93px;
+}
 .home{
     text-transform: uppercase;
     font-family: var(--family);
@@ -502,11 +510,11 @@ a {
 }
 
 .logo__img2 {
-    transition: all 0.5s linear;
 }
 
 .logo__img2:hover {
     transform: rotate(360deg);
+    transition: all 1s linear;
 }
 
 .grey {

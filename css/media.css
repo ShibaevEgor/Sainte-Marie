@@ -133,14 +133,6 @@
     .three {
         height: 200px;
     }
-    .container{
-        position: relative;
-    }
-    .burger__box {
-        position: fixed;
-        top: 93px;
-        right: 15px !important;
-    }
     .main__one {
         padding-top: 9px;
     }

@@ -57,3 +57,16 @@ window.addEventListener("DOMContentLoaded", function(e) {
         }, 500)
     }, 5000)
 })
+
+
+// const btn = document.querySelector(".burger")
+// let box = document.querySelector(".burger__box")
+
+// btn.addEventListener("click", function(e){
+//     e.preventDefault()
+//     box.classList.toggle('active');
+// })
+
+// click = () =>{
+//     box.classList.toggle('active')
+// }
