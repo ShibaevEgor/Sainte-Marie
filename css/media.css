@@ -38,11 +38,21 @@
     .in2 {
         height: 350px;
     }
-    .menu__box {
+    /* .menu__box {
+        display: block;
+        z-index: 99;
+    } */
+    #curtain{
         display: block;
         z-index: 99;
     }
-    .ul {
+    .toggle{
+        display: block;
+        z-index: 99;
+        height: 20px;
+        width: 20px;
+    }
+    .ull {
         display: none;
     }
     .main__one {
@@ -294,6 +304,9 @@
     }
     .three {
         height: 300px;
+    }
+    .toggle{
+        bottom: 20%;
     }
 }
 

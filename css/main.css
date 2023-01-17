@@ -33,6 +33,7 @@ a {
 :root {
     --family: 'Chivo';
     ---family: 'Century Gothic';
+    ----family: 'Modak';
 }
 
 
@@ -46,13 +47,16 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
+    height: 40px;
+    margin-bottom: 20px;
 }
 
 .logo {}
 
 .logo__img {}
 
-.ul {
+.ull {
     width: 463px;
     display: flex;
     justify-content: space-between;
@@ -60,7 +64,7 @@ a {
     padding-top: 15px;
 }
 
-.li {
+.lli {
     list-style-type: none;
     transition: all 0.5s linear;
 }
@@ -694,7 +698,7 @@ h1 {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 99;
+    z-index: 99000000000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -713,3 +717,129 @@ h1 {
     opacity: 0;
 }
 /* /loader */
+
+
+
+
+
+
+
+
+
+/* burger */
+
+#curtain {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+  }
+  #curtain span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200%;
+    height: 100%;
+    display: block;
+    transform-origin: bottom left;
+    transition: 0.5s ease-in-out;
+    transform: rotate(-90deg);
+  }
+  #curtain span:nth-child(1) {
+    transform: rotate(-90deg);
+    background: linear-gradient(to right, #000000, #e74c3c);
+    transition-delay: 0.2s
+  }
+  #curtain span:nth-child(2) {
+    transform: rotate(-90deg);
+    background: linear-gradient(to right, #232526, #414345);
+    transition-delay: 0.1s
+  }
+  #curtain span:nth-child(3) {
+    transform: rotate(-90deg);
+    background: linear-gradient(to right, #085078, #85d8ce);
+    transition-delay: 0s
+  }
+  #curtain.active span {
+    transform: rotate(0deg);
+  }
+  #curtain.active span:nth-child(1) {
+   z-index: 1;
+    transition-delay: 0s;
+  }
+  #curtain.active span:nth-child(2) {
+   z-index: 2;
+    transition-delay: 0.1s;
+  }
+  #curtain.active span:nth-child(3) {
+   z-index: 3;
+    transition-delay: 0.2s;
+  }
+  .toggle {
+    position: absolute;
+    bottom: 5%;
+    right: 0px;
+    width: 45px;
+    height: 45px;
+    background:  url("../assets/icons/menu.svg"); 
+    background-repeat: no-repeat;
+    /* background-position: 5px; */
+    z-index: 99;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 5px;
+    background-size: 100% 100%;
+  }
+  /* #curtain.active .toggle{
+    background:  url('../assets/icons/menu-white.svg') !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  } */
+  .activity{
+    background:  url('../assets/icons/menu-white.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  #curtain ul {
+    position: absolute;
+    z-index: 100;
+    transition: 0.5s;
+    visibility: hidden;
+    opacity: 0;
+    transition-delay: 0s;
+    font-family: var(----family);
+  }
+  #curtain.active ul {
+    visibility: visible;
+    opacity: 1;
+    transition-delay: 0.7s;
+  }
+  #curtain ul li {
+    list-style: none;
+    margin: 10px 0;
+  }
+  #curtain ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 4em;
+    text-align: center;
+    display: block;
+    
+    
+  }
+
+  #curtain{
+    display: none;
+  }
+
+  .toggle{
+    display: none;
+  }
+
+  /* /burger */

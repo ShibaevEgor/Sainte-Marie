@@ -57,3 +57,14 @@ window.addEventListener("DOMContentLoaded", function(e) {
         }, 500)
     }, 5000)
 })
+
+
+
+
+
+function toggle(){
+    var curtain = document.getElementById('curtain');
+    var menu = document.getElementById('toggle')
+    curtain.classList.toggle('active')
+    menu.classList.toggle('activity')
+}
