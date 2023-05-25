@@ -404,6 +404,9 @@
     .footer__one {
         /* padding-top: 50px!important; */
     }
+    li{
+        font-size: 10px;
+    }
 }
 
 @media only screen and (max-width:410px) {

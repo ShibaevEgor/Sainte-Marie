@@ -27,7 +27,7 @@ a {
 .container {
     max-width: 920px;
     margin: 0 auto;
-    position: relative;
+    /* position: relative; */
 }
 
 :root {
@@ -733,12 +733,13 @@ h1 {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 600px;
     overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
     z-index: 10000;
+    padding-top: 15px;
   }
   #curtain span {
     position: absolute;
@@ -796,15 +797,11 @@ h1 {
     border-radius: 5px;
     background-size: 100% 100%;
   }
-  /* #curtain.active .toggle{
-    background:  url('../assets/icons/menu-white.svg') !important;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-  } */
   .activity{
-    background:  url('../assets/icons/menu-white.svg');
+    /* background:  url('../assets/icons/menu-white.svg');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
+    display: none;
   }
   #curtain ul {
     position: absolute;
@@ -828,10 +825,8 @@ h1 {
     text-decoration: none;
     color: #fff;
     font-size: 4em;
-    text-align: center;
+    text-align: start;
     display: block;
-    
-    
   }
 
   #curtain{
@@ -842,4 +837,10 @@ h1 {
     display: none;
   }
 
+  .toggle2{
+    display: none;
+    background:  url('../assets/icons/menu-white.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
   /* /burger */
